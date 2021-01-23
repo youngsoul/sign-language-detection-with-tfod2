@@ -53,6 +53,14 @@ To that end, I have collected and/or written a number of scripts (see scripts di
 
 As much as is possible, the scripts are driven from values in the `scripts/model_config.py` file.  Most of the scripts do not need command line parameters - but - there are a couple.
 
+## Caveats
+
+* This repo was only tested on MacOS, Catalina
+
+* This repo worked as of, January 23, 2021
+
+* This technology changes so fast, it might not work in the near future.
+
 
 ## Steps
 
