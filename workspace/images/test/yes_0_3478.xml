@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>yes_0_3478.jpg</filename>
+	<path>/Users/patrickryan/Development/tf2_object_detection/RealTimeObjectDetection/Tensorflow/workspace/images/test/yes_0_3478.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>540</ymin>
+			<xmax>1037</xmax>
+			<ymax>983</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hello_0_4617.jpg</filename>
+	<path>/Users/patrickryan/Development/tf2_object_detection/RealTimeObjectDetection/Tensorflow/workspace/images/train/hello_0_4617.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>122</ymin>
+			<xmax>831</xmax>
+			<ymax>914</ymax>
+		</bndbox>
+	</object>
+</annotation>
