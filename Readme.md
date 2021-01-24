@@ -4,6 +4,19 @@ The project in this repo was completely inspired by [Nicholas Renotte](https://g
 
 ![SLD](./media/sign-language-detection.gif)
 
+<b>Test Images</b>
+
+![hello](./media/hello-test.gif)
+
+![iloveyou](./media/iloveyou-test.gif)
+
+![no](./media/no-test.gif)
+
+![ty](./media/thank-you-test.gif)
+
+![yes](./media/yes-test.gif)
+
+
 ## Attribution
 
 This repo is a collection of knowledge gained from others who so generously put together github repos and YouTube videos.  To you I say 'Thank you!'
